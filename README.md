@@ -5,7 +5,7 @@
 👶 1999.02.22 <br>
 📞 010-4193-8215 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youchanj66@gmail.com)](mailto:youchanj66@gmail.com) [[<span><a href="https://scalloped-lan-dc3.notion.site/70efed36129f4d67ba93864ab7f55b30"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>](https://www.notion.so/6b97265f700b4d4998f38112b846dc34)](https://cultured-clef-5a1.notion.site/52edd934f82a410e9cafeac982a94ece)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youchanj66@gmail.com)](mailto:youchanj66@gmail.com) [<span><a href="https://scalloped-lan-dc3.notion.site/70efed36129f4d67ba93864ab7f55b30"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 <br/>
 
