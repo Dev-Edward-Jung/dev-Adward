@@ -26,9 +26,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-![Pandas](https://img.shields.io/badge/pandas-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black)
-![Numpy](https://img.shields.io/badge/numpy-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black)
-![Tensorflow](https://img.shields.io/badge/tensorflow-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red)
+![Pandas](https://img.shields.io/badge/pandas-%23ED8B00.svg?style=for-the-badge&logo=pandas&logoColor=black)
+![Numpy](https://img.shields.io/badge/numpy-%231572B6.svg?style=for-the-badge&logo=numpy&logoColor=black)
+![Tensorflow](https://img.shields.io/badge/tensorflow-%23E34F26.svg?style=for-the-badge&logo=tensorflow&logoColor=red)
 
 
 <h3> 🛠 IDEA & TOOL</h3>
