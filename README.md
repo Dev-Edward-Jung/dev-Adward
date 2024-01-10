@@ -1,5 +1,5 @@
 ## 👋 About Me :
-안녕하세요. 경제, 마케팅, django, AI 등등 여러분야에 대해 공부하는 것을 배우고 목표를 이루어나가는 개발자입니다. 
+Hello. I am Youchan who likes to learn various things like Programming, Marketing, Psychology, Economics etc...
 
 ## Profile
 👶 1999.02.22 <br>
