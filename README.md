@@ -28,7 +28,7 @@ Hello. I am Youchan who likes to learn various things like Programming, Marketin
 
 ![Pandas](https://img.shields.io/badge/pandas-%000000.svg?style=for-the-badge&logo=pandas&logoColor=black)
 ![Numpy](https://img.shields.io/badge/numpy-%231572B6.svg?style=for-the-badge&logo=numpy&logoColor=black)
-![Tensorflow](https://img.shields.io/badge/tensorflow-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>TensorFlow</title><path d="M1.292 5.856L11.54 0v24l-4.095-2.378V7.603l-6.168 3.564.015-5.31zm21.43 5.311l-.014-5.31L12.46 0v24l4.095-2.378V14.87l3.092 1.788-.018-4.618-3.074-1.756V7.603l6.168 3.564z"/></svg>.svg?style=for-the-badge&logo=tensorflow&logoColor=red)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 <h3> 🛠 IDEA & TOOL</h3>
