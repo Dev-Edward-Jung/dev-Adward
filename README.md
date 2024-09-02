@@ -1,5 +1,5 @@
 ## 👋 About Me :
-Hello. I am Youchan who likes to learn various things like Programming, Marketing, Psychology, Economics etc...
+Hello. I am Edward(Youchan Jung) who likes to learn various things like Programming, Marketing, Psychology, Economics etc...
 
 ## Profile
 👶 1999.02.22 <br>
