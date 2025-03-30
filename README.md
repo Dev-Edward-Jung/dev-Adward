@@ -54,5 +54,5 @@ Hello! I'm **Edward (Youchan Jung)**, a curious and passionate learner who enjoy
 
 ## 📊 GitHub Stats
 
-![Adward's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Adward&theme=vue-dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Adward&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Adward's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Adward-jung&theme=vue-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Adward-jung&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
