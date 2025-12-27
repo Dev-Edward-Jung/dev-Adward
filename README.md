@@ -3,14 +3,6 @@ Hello! I'm **Edward (Youchan Jung)**, a curious and passionate learner who enjoy
 
 ---
 
-## 📄 Profile  
-👶 Born: 1999.02.22  
-📞 Phone: 010-4193-8215  
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youchanj66@gmail.com)](mailto:youchanj66@gmail.com)
-
----
-
 ## 💻 Tech Stack
 
 ### 🔹 Languages & Frameworks
